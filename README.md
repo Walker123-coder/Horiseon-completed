@@ -13,4 +13,3 @@
 
 7. I changed the background image code whitch had an extra directory in the pathfile whitch then fixed the responsiveness of the background on css.
 
-8.
